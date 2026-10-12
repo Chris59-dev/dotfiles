@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chrisdac205@gmail.com
+	name = christian dacquin
